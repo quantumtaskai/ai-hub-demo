@@ -1169,7 +1169,7 @@ export default function HomePage() {
                   src="/logo-white.png" 
                   alt="Quantum Task AI Logo"
                   style={{
-                    height: '40px',
+                    height: '60px',
                     width: 'auto'
                   }}
                   onError={(e) => {
